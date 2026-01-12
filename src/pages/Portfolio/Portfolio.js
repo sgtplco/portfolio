@@ -1,10 +1,7 @@
-
-
 import React, { useState } from 'react';
+import { motion } from 'framer-motion';
 import './Portfolio.css';
 import Modal from '../../components/Modal/Modal';
-import { motion } from 'framer-motion';
-import 'aos/dist/aos.css';
 
 const Portfolio = () => {
   const projects = [

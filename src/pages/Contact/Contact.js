@@ -1,23 +1,8 @@
 import React, { useState } from 'react';
-import emailjs from '@emailjs/browser';
 import './Contact.css';
 
 const Contact = () => {
   const [expandedFaq, setExpandedFaq] = useState(null);
-  const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    message: '',
-  });
-  const [loading, setLoading] = useState(false);
-  const [status, setStatus] = useState('');
-
-  const handleChange = (e) => {
-    setFormData({
-      ...formData,
-      [e.target.name]: e.target.value,
-    });
-  };
 
   // const handleSubmit = (e) => {
   //   e.preventDefault();

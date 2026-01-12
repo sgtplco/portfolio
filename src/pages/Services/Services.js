@@ -1,9 +1,7 @@
-
-
 import React from 'react';
 import './Services.css';
 import dotnetImg from '../../assets/.net.png';
-import reactnative from '../../assets//reactnatvie.webp';
+import reactnative from '../../assets/reactnatvie.webp';
 import kotlin from '../../assets/kotlin.jpg';
 import ai from '../../assets/ai.jpg';
 

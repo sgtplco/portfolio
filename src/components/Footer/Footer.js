@@ -24,7 +24,7 @@ const Footer = () => {
               <h4>Contact</h4>
               <a href="/contact">Get in Touch</a>
               <a href="mailto:info@freelancedevs.com">contacts@sgtpl.com</a>
-              <a href="tel:+1234567890">+1 (234) 567-890</a>
+              <a href="tel:+1234567890">+91 92125 88318</a>
             </div>
             <div className="footer-section">
               <h4>Follow Us</h4>
@@ -49,13 +49,13 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="footer-bottom">
+        {/* <div className="footer-bottom">
           <p>© 2026 Freelance Devs. All rights reserved.</p>
           <div className="footer-links">
             <a href="/privacy">Privacy Policy</a>
             <a href="/terms">Terms of Service</a>
           </div>
-        </div>
+        </div> */}
       </div>
     </footer>
   );

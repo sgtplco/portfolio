@@ -191,8 +191,8 @@ const Contact = () => {
               <div className="info-item">
                 <div>
                   <p className="info-label" style={{ fontWeight: 600, color: '#334155', marginBottom: 0 }}>Address</p>
-                  <p className="info-value" style={{ color: '#64748b', fontWeight: 500, fontSize: '1.05rem', margin: 0 }}>123 Freelancer ave., Suite 345, City Country</p>
-                  <p className="info-value" style={{ color: '#64748b', fontWeight: 500, fontSize: '1.05rem', margin: 0 }}>Near me dia Bza - UKTVPIN</p>
+                  <p className="info-value" style={{ color: '#64748b', fontWeight: 500, fontSize: '1.05rem', margin: 0 }}> Flat 103 Block 15, Suncity Apartment, 6th Main, </p>
+                  <p className="info-value" style={{ color: '#64748b', fontWeight: 500, fontSize: '1.05rem', margin: 0 }}>Iblur Junction, Bellandur, Bangalore-560103, Karnataka</p>
                 </div>
               </div>
             </div>
